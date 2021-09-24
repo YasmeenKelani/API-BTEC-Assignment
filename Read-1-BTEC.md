@@ -49,4 +49,5 @@ APIs and SDKs are similar, yet they each have their own set of features and bene
 - **Refrencess**
 
 [https://searchapparchitecture.techtarget.com/tip/What-are-the-types-of-APIs-and-their-differences](https://searchapparchitecture.techtarget.com/tip/What-are-the-types-of-APIs-and-their-differences)
+
 [https://rapidapi.com/blog/api-vs-sdk/](https://rapidapi.com/blog/api-vs-sdk/)
