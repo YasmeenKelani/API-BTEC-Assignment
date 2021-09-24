@@ -45,3 +45,7 @@ In some cases, having an SDK is essential. To create iOS applications, for examp
 
 The fundamental distinction is that an API is essentially just a service's interface, but an SDK is a collection of tools, components, and code fragments built for a specific purpose.
 APIs and SDKs are similar, yet they each have their own set of features and benefits. Understanding the distinctions might assist you in deciding which is the best option for your project. The key distinctions between an API and an SDK are summarized in the diagram below.
+
+- **Refrencess**
+[https://searchapparchitecture.techtarget.com/tip/What-are-the-types-of-APIs-and-their-differences](https://searchapparchitecture.techtarget.com/tip/What-are-the-types-of-APIs-and-their-differences)
+[https://rapidapi.com/blog/api-vs-sdk/](https://rapidapi.com/blog/api-vs-sdk/)
