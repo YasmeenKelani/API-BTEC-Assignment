@@ -23,8 +23,8 @@ So the data will be return as below for 16 days with description :
 
 I will show you list of movies results  :
 
-<img src="Paris.PNG" alt="movie" width="400" height="600"/>
-<img src="Seattle.PNG" alt="movie" width="400" height="600"/>
+<img src="Paris.PNG" alt="movie" width="350" height="400"/>
+<img src="Seattle.PNG" alt="movie" width="350" height="400"/>
 
 - This fuction is refers to how the URL or End Point will response to the request :
 
@@ -36,5 +36,13 @@ I will show you list of movies results  :
 ![image](component.PNG)
 ![image](Wc.PNG)
 ![image](MC.PNG)
+
+A look for the funstion I have used for the movies and weather:
+![image](weatherFun.PNG)
+![image](movieFun.PNG)
  
-- 
+- I used location API in my code from LocationIQ, this fuction will return tittle, latitude and longitude So when the user press on expllore button it will show him a result for the city map and data of the city:
+
+![image](locationFun.PNG)
+
+ <img src="SeattleMap.PNG" alt="movie" width="400" height="600"/>
