@@ -34,7 +34,9 @@ I will show you list of movies results  :
 - In my code "Front End" I created component for movies and weather to Modularize: 
 
 ![image](component.PNG)
+
 ![image](Wc.PNG)
+
 ![image](MC.PNG)
 
 A look for the funstion I have used for the movies and weather:
@@ -45,4 +47,4 @@ A look for the funstion I have used for the movies and weather:
 
 ![image](locationFun.PNG)
 
- <img src="SeattleMap.PNG" alt="movie" width="400" height="600"/>
+![image](SeattleMap.PNG)
